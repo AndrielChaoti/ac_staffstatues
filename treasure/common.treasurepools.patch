@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/valuableTreasure/3",
+    "value": [
+      3.9,
+      {
+        "pool": [
+          {
+            "weight": 0.25,
+            "item": "techcard"
+          },
+          {
+            "weight": 0.3,
+            "item": "manipulatormodule"
+          },
+          {
+            "weight": 0.1,
+            "item": [
+              "manipulatormodule",
+              2
+            ]
+          },
+          {
+            "weight": 0.13,
+            "item": "upgrademodule"
+          },
+          {
+            "weight": 0.05,
+            "item": "teleportercore"
+          },
+          {
+            "weight": 0.02,
+            "item": "lunarastatue"
+          },
+          {
+            "weight": 0.06,
+            "pool": "augments"
+          },
+          {
+            "weight": 0.06,
+            "pool": "petcollars"
+          },
+          {
+            "weight": 0.03,
+            "pool": "uniqueWeapon"
+          },
+          {
+            "weight": 0.02,
+            "pool": "uniqueWeaponRecipe"
+          }
+        ]
+      }
+    ]
+  }
+]
