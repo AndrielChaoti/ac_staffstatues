@@ -1,0 +1,10 @@
+{
+    "acstatuetreasures": [
+        [0, {
+            "pool": [
+                {"weight": 1, "item": "dawnstatue"},
+                {"weight": 1, "item": "lunarastatue"},
+            ]
+        }]
+    ]
+}
