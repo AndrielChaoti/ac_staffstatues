@@ -1,164 +1,27 @@
 [
-  {
-    "op": "replace",
-    "path": "/valuableTreasure/1",
-    "value": [
-      1.9,
-      {
-        "pool": [
-          {
-            "weight": 0.25,
-            "item": "techcard"
-          },
-          {
-            "weight": 0.35,
-            "item": "manipulatormodule"
-          },
-          {
-            "weight": 0.05,
-            "item": [
-              "manipulatormodule",
-              2
-            ]
-          },
-          {
-            "weight": 0.11,
-            "item": "upgrademodule"
-          },
-          {
-            "weight": 0.05,
-            "item": "teleportercore"
-          },
-          {
-            "weight": 0.05,
-            "pool": "augments"
-          },
-          {
-            "weight": 0.12,
-            "pool": "goodWeapon"
-          },
-          {
-            "weight": 0.02,
-            "pool": "uniqueWeapon"
-          },
-          {
+    {
+        "op": "add",
+        "path": "/valuableTreasure/1/1/pool/-",
+        "value": {
             "weight": 0.01,
             "pool": "acstatuetreasures"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "op": "replace",
-    "path": "/valuableTreasure/2",
-    "value": [
-      2.9,
-      {
-        "pool": [
-          {
-            "weight": 0.25,
-            "item": "techcard"
-          },
-          {
-            "weight": 0.33,
-            "item": "manipulatormodule"
-          },
-          {
-            "weight": 0.07,
-            "item": [
-              "manipulatormodule",
-              2
-            ]
-          },
-          {
-            "weight": 0.12,
-            "item": "upgrademodule"
-          },
-          {
-            "weight": 0.05,
-            "item": "teleportercore"
-          },
-          {
-            "weight": 0.05,
-            "pool": "augments"
-          },
-          {
-            "weight": 0.03,
-            "pool": "petcollars"
-          },
-          {
-            "weight": 0.05,
-            "pool": "goodWeapon"
-          },
-          {
-            "weight": 0.03,
-            "pool": "uniqueWeapon"
-          },
-          {
-            "weight": 0.02,
-            "pool": "uniqueWeaponRecipe"
-          },
-          {
+        }
+    },
+    {
+        "op": "add",
+        "path": "/valuableTreasure/2/1/pool/-",
+        "value": {
             "weight": 0.02,
             "pool": "acstatuetreasures"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "op": "replace",
-    "path": "/valuableTreasure/3",
-    "value": [
-      3.9,
-      {
-        "pool": [
-          {
-            "weight": 0.25,
-            "item": "techcard"
-          },
-          {
-            "weight": 0.3,
-            "item": "manipulatormodule"
-          },
-          {
-            "weight": 0.1,
-            "item": [
-              "manipulatormodule",
-              2
-            ]
-          },
-          {
-            "weight": 0.13,
-            "item": "upgrademodule"
-          },
-          {
-            "weight": 0.05,
-            "item": "teleportercore"
-          },
-          {
-            "weight": 0.06,
-            "pool": "augments"
-          },
-          {
-            "weight": 0.06,
-            "pool": "petcollars"
-          },
-          {
-            "weight": 0.03,
-            "pool": "uniqueWeapon"
-          },
-          {
-            "weight": 0.02,
-            "pool": "uniqueWeaponRecipe"
-          },
-          {
+        }
+    },
+    {
+        "op": "add",
+        "path": "/valuableTreasure/3/1/pool/-",
+        "value":
+        {
             "weight": 0.03,
             "pool": "acstatuetreasures"
-          }
-        ]
-      }
-    ]
-  }
+        }
+    }
 ]
