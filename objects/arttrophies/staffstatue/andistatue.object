@@ -1,0 +1,21 @@
+{
+  "objectName" : "andrielstatue",
+  "colonyTags" : ["pretty","valuable"],
+  "rarity" : "Legendary",
+  "description" : "A statue of Andriel! A troublemaker who loves to party!",
+  "shortdescription" : "Andriel Statue",
+  "category" : "decorative",
+  "price" : 1250,
+  "printable" : false,
+
+  "inventoryIcon" : "andrielstatueicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "andrielstatue.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

@@ -3,7 +3,8 @@
         [0, {
             "pool": [
                 {"weight": 1, "item": "dawnstatue"},
-                {"weight": 1, "item": "lunarastatue"},
+                {"weight": 1, "item": "andrielstatue"},
+                {"weight": 1, "item": "lunarastatue"}
             ]
         }]
     ]
