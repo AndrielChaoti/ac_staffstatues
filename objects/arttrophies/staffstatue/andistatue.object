@@ -2,16 +2,16 @@
   "objectName" : "andrielstatue",
   "colonyTags" : ["pretty","valuable"],
   "rarity" : "Legendary",
-  "description" : "A statue of Andriel! A troublemaker who loves to party!",
+  "description" : "A statue of Andriel! She doesn't know when to stop pinging!",
   "shortdescription" : "Andriel Statue",
   "category" : "decorative",
   "price" : 1250,
   "printable" : false,
 
-  "inventoryIcon" : "andrielstatueicon.png",
+  "inventoryIcon" : "andistatueicon.png",
   "orientations" : [
     {
-      "dualImage" : "andrielstatue.png:<color>",
+      "dualImage" : "andistatue.png:<color>",
       "imagePosition" : [-8, 0],
 
       "spaceScan" : 0.1,
